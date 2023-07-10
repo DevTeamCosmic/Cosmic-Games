@@ -1,4 +1,4 @@
-# Sword Games
+# Cosmic Games
 
 Folders are gay
 
